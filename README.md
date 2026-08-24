@@ -46,7 +46,7 @@ Senior Software Engineer with **11 years of experience** building scalable appli
 
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=starlet219&theme=github_dark" />
 
-</div>
+</div> -->
 
 ---
 
@@ -67,7 +67,7 @@ Senior Software Engineer with **11 years of experience** building scalable appli
 <img src="https://img.shields.io/badge/Pytest-232530?style=for-the-badge&logo=pytest&logoColor=0A9EDC" />
 <img src="https://img.shields.io/badge/Playwright-232530?style=for-the-badge&logo=playwright&logoColor=2EAD33" />
 
-</div> -->
+</div> 
 
 ---
 
