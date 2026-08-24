@@ -1,315 +1,236 @@
 <!--
-╭──────────────────────────────────────────────╮
-│  BERNARD HARTMAN · GITHUB PROFILE           │
-│  Premium Futuristic Edition                 │
-╰──────────────────────────────────────────────╯
+  Bernard Hartman — GitHub Profile README
+  Theme: Obsidian-inspired / premium / compact
 -->
 
 <div align="center">
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:050816,35:0F1F3D,68:284BA7,100:7C3AED&text=BERNARD%20HARTMAN&fontColor=F8FAFC&fontSize=46&fontAlignY=36&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Cloud&descAlignY=56&descSize=17&animation=fadeIn"
-/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F1117,38:1B2330,72:3B2F63,100:6D4AFF&text=Bernard%20Hartman&fontColor=F8FAFC&fontSize=44&fontAlignY=38&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Cloud&descAlignY=60&descSize=17&animation=fadeIn" />
 
-<a href="https://git.io/typing-svg">
-<img
-  src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&duration=2600&pause=700&color=60A5FA&center=true&vCenter=true&width=880&height=45&lines=BUILDING+SYSTEMS+THAT+SCALE;PYTHON+%C2%B7+NODE.JS+%C2%B7+TYPESCRIPT+%C2%B7+REACT;KAFKA+%C2%B7+DISTRIBUTED+SYSTEMS+%C2%B7+CLOUD;RELIABILITY+%C2%B7+OBSERVABILITY+%C2%B7+PERFORMANCE"
-  alt="Bernard Hartman engineering focus"
-/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=860&lines=Python+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+React;Kafka+%E2%80%A2+PostgreSQL+%E2%80%A2+Cloud-Native+Engineering;Reliable+Systems+%E2%80%A2+Production+Quality+%E2%80%A2+AI-Assisted+Engineering" alt="typing intro" />
 
-<br/>
+<br/><br/>
 
 <a href="https://linkedin.com/in/bernard-h-engineer">
-<img src="https://img.shields.io/badge/LinkedIn-Bernard_Hartman-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Bernard_Hartman-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=232530" />
 </a>
-
 <a href="mailto:bernardh.engineer@outlook.com">
-<img src="https://img.shields.io/badge/Outlook-Say_Hello-0EA5E9?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Outlook-Say_Hello-38BDF8?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=232530" />
 </a>
-
 <a href="https://github.com/starlet219">
-<img src="https://img.shields.io/badge/GitHub-starlet219-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-starlet219-C084FC?style=for-the-badge&logo=github&logoColor=white&labelColor=232530" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/11_YEARS-ENGINEERING-111827?style=flat-square&labelColor=7C3AED"/>
-<img src="https://img.shields.io/badge/BACKEND-SYSTEMS-111827?style=flat-square&labelColor=2563EB"/>
-<img src="https://img.shields.io/badge/DISTRIBUTED-ARCHITECTURE-111827?style=flat-square&labelColor=0EA5E9"/>
-<img src="https://img.shields.io/badge/CLOUD-NATIVE-111827?style=flat-square&labelColor=6366F1"/>
+<img src="https://img.shields.io/badge/11_YEARS-Engineering-A78BFA?style=flat-square&labelColor=1F2430&color=A78BFA" />
+<img src="https://img.shields.io/badge/Backend-Systems-60A5FA?style=flat-square&labelColor=1F2430&color=60A5FA" />
+<img src="https://img.shields.io/badge/Distributed-Architecture-38BDF8?style=flat-square&labelColor=1F2430&color=38BDF8" />
+<img src="https://img.shields.io/badge/Cloud-Native-C084FC?style=flat-square&labelColor=1F2430&color=C084FC" />
+<img src="https://img.shields.io/badge/AI-Assisted-Engineering-22D3EE?style=flat-square&labelColor=1F2430&color=22D3EE" />
 
 </div>
 
-<br/>
-
-## ✦ About
-
-I'm **Bernard Hartman**, a Senior Software Engineer with **11 years of experience** building scalable backend services, API platforms, distributed systems, cloud-native applications, and full-stack products.
-
-My background spans **entertainment technology, healthcare technology, global eCommerce, and retail**, with a strong focus on systems where reliability, data integrity, performance, and maintainability matter.
-
-> **I like turning complicated workflows into software that feels simple, predictable, and dependable in production.**
-
-`Backend Architecture` · `Distributed Systems` · `Event-Driven Systems` · `Cloud Platforms` · `AI-Assisted Engineering`
-
 ---
 
-## ✦ Technology
+## ✦ Overview
+
+Senior Software Engineer with **11 years of experience** building scalable applications, backend services, API platforms, distributed systems, and cloud-native software across entertainment technology, healthcare technology, global eCommerce, and retail.
 
 <div align="center">
 
-<img
-  src="https://skillicons.dev/icons?i=python,ts,js,nodejs,react,nextjs,fastapi,django,postgres,redis&theme=dark&perline=10"
-/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=starlet219&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=starlet219&theme=github_dark" />
+
+<br/>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=starlet219&theme=github_dark" />
+
+</div>
+
+---
+
+## ✦ Core Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,react,nextjs,fastapi,django,postgres,mysql,mongodb,redis,docker,kubernetes,aws,gcp,azure,git,githubactions,linux&theme=dark&perline=10" />
 
 <br/><br/>
 
-<img
-  src="https://skillicons.dev/icons?i=mysql,mongodb,docker,kubernetes,aws,gcp,azure,git,githubactions,linux&theme=dark&perline=10"
-/>
+<img src="https://img.shields.io/badge/Kafka-232530?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-232530?style=for-the-badge&logo=graphql&logoColor=E10098" />
+<img src="https://img.shields.io/badge/Fastify-232530?style=for-the-badge&logo=fastify&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-232530?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+<img src="https://img.shields.io/badge/Prisma-232530?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAPI-232530?style=for-the-badge&logo=openapiinitiative&logoColor=6BA539" />
+<img src="https://img.shields.io/badge/Pytest-232530?style=for-the-badge&logo=pytest&logoColor=0A9EDC" />
+<img src="https://img.shields.io/badge/Playwright-232530?style=for-the-badge&logo=playwright&logoColor=2EAD33" />
 
 </div>
 
-<br/>
+---
+
+## ✦ Focus Areas
 
 <div align="center">
 
-![Kafka](https://img.shields.io/badge/Kafka-18181B?style=flat-square&logo=apachekafka&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-18181B?style=flat-square&logo=fastify&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+<img src="https://img.shields.io/badge/API_Platforms-8B5CF6?style=for-the-badge&labelColor=232530" />
+<img src="https://img.shields.io/badge/Backend_Services-60A5FA?style=for-the-badge&labelColor=232530" />
+<img src="https://img.shields.io/badge/Distributed_Systems-38BDF8?style=for-the-badge&labelColor=232530" />
+<img src="https://img.shields.io/badge/Event_Driven_Workflows-C084FC?style=for-the-badge&labelColor=232530" />
+<img src="https://img.shields.io/badge/Production_Reliability-22D3EE?style=for-the-badge&labelColor=232530" />
+<img src="https://img.shields.io/badge/Developer_Tooling-A78BFA?style=for-the-badge&labelColor=232530" />
 
 </div>
 
 ---
 
-## ✦ Engineering
+## ✦ Selected Work
 
-### 01 · Backend Systems
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Designing scalable APIs, microservices, service boundaries, authentication, background processing, integrations, and production-facing backend architecture.
+### 🎬 Cast & Crew
 
-**Primary tools**
+<img src="https://img.shields.io/badge/Entertainment_Workflows-3B82F6?style=for-the-badge&labelColor=1E293B" />
 
-`Node.js` · `Python` · `TypeScript` · `Express` · `Fastify` · `NestJS` · `FastAPI`
+**Production workflow systems** for payroll, workforce management, documents, and entertainment finance.
 
-### 02 · Distributed Architecture
+<div align="left">
 
-Building asynchronous systems around events, queues, workflow transitions, retry behavior, message processing, and cross-service communication.
-
-**Primary tools**
-
-`Kafka` · `Redis` · `Webhooks` · `Background Jobs` · `Event-Driven Architecture`
-
-### 03 · Data & Performance
-
-Working with relational and document databases, transaction boundaries, data modeling, indexing, caching, ORM architecture, and query optimization.
-
-**Primary tools**
-
-`PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `Prisma` · `TypeORM` · `Sequelize`
-
-### 04 · Cloud & Reliability
-
-Shipping containerized production systems with CI/CD, observability, monitoring, health checks, secure deployment practices, and operational safeguards.
-
-**Primary tools**
-
-`Docker` · `Kubernetes` · `GCP` · `Azure` · `AWS` · `GitHub Actions`
-
----
-
-## ✦ AI × Engineering
-
-I also work with AI-assisted engineering workflows focused on evaluating and improving technical model behavior.
-
-<div align="center">
-
-![LLM](https://img.shields.io/badge/LLM_Output-Evaluation-7C3AED?style=for-the-badge)
-![Prompt](https://img.shields.io/badge/Prompt-Analysis-6366F1?style=for-the-badge)
-![Review](https://img.shields.io/badge/Technical-Review-2563EB?style=for-the-badge)
-![Validation](https://img.shields.io/badge/Structured-Validation-0891B2?style=for-the-badge)
+<img src="https://img.shields.io/badge/Node.js-1F2937?style=flat-square&logo=nodedotjs&logoColor=83CD29" />
+<img src="https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=93C5FD" />
+<img src="https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Kafka-1F2937?style=flat-square&logo=apachekafka&logoColor=E5E7EB" />
+<img src="https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square&logo=postgresql&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/Redis-1F2937?style=flat-square&logo=redis&logoColor=93C5FD" />
+<img src="https://img.shields.io/badge/Kubernetes-1F2937?style=flat-square&logo=kubernetes&logoColor=38BDF8" />
 
 </div>
 
-<br/>
+[![Visit Platform](https://img.shields.io/badge/View-Platform-3B82F6?style=flat-square&labelColor=1E293B)](https://www.castandcrew.com/)
 
-I work on:
+</td>
+<td width="50%" valign="top">
 
-- technical response evaluation
-- code and system-design review
-- prompt analysis
-- objective engineering rubrics
-- synthetic software-engineering scenarios
-- edge-case evaluation
-- gold-standard technical responses
-- hallucination and unsafe-assumption detection
+### 🏥 Parachute Health
 
----
+<img src="https://img.shields.io/badge/Healthcare_Platform-2563EB?style=for-the-badge&labelColor=1E293B" />
 
-# Selected Experience
+**Healthcare workflow platform** supporting clinical ordering, documentation, suppliers, and patient operations.
 
-## Cast & Crew
+<div align="left">
 
-### Senior Software Engineer
-`2024 — Present`
-
-Building production workflow systems supporting payroll, workforce management, documents, approvals, and entertainment finance.
-
-**Stack**
-
-`Node.js` `TypeScript` `Python` `React` `Kafka` `PostgreSQL` `Redis` `Kubernetes` `GCP` `Azure`
-
-- Design scalable full-stack workflow applications and distributed backend services.
-- Build REST and GraphQL APIs with consistent contracts and validation.
-- Implement Kafka-driven asynchronous workflows across distributed services.
-- Improve production reliability through logging, monitoring, health checks, alerts, and retry-safe processing.
-- Apply structured AI-assisted evaluation to engineering and operations workflows.
-
----
-
-## Parachute Health
-
-### Senior Full Stack Engineer
-`2020 — 2024`
-
-Built healthcare platforms supporting clinical ordering, documentation, suppliers, payers, patients, and regulated workflow automation.
-
-**Stack**
-
-`Node.js` `TypeScript` `Python` `React` `Kafka` `PostgreSQL` `Redis` `Docker` `Kubernetes`
-
-- Designed distributed Node.js services and event-driven healthcare workflows.
-- Built React and TypeScript interfaces for clinical and operations teams.
-- Integrated Python automation and AI-assisted validation.
-- Implemented RBAC, JWT authorization, audit logging, secure APIs, and HIPAA-conscious engineering patterns.
-- Improved observability across APIs, databases, workflows, and Kafka processing.
-
----
-
-## Global-e
-
-### Software Engineer
-`2017 — 2020`
-
-Developed global commerce systems supporting checkout, payments, pricing, taxes, duties, shipping, settlements, and merchant integrations.
-
-**Stack**
-
-`Node.js` `React` `Python` `Kafka` `PostgreSQL` `Redis` `REST`
-
-- Built Node.js services for international transaction and merchant workflows.
-- Developed React operations dashboards and Python reconciliation tooling.
-- Implemented Kafka consumers, webhooks, retries, and asynchronous processing.
-- Improved API latency and database performance with Redis, indexing, and query tuning.
-
----
-
-## NIKE, Inc.
-
-### Full Stack Developer
-`2014 — 2017`
-
-Built digital retail experiences supporting products, inventory, merchandising, campaigns, and commerce systems.
-
-**Stack**
-
-`JavaScript` `React` `Node.js` `Express` `Python` `SQL` `Docker`
-
-- Built React experiences connected to Node.js backend APIs.
-- Developed product, inventory, campaign, and merchandising workflows.
-- Created Python reporting, automation, and validation utilities.
-- Improved frontend, backend, and SQL performance.
-- Supported Docker-based environments and CI production releases.
-
----
-
-## ✦ GitHub
-
-<div align="center">
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=starlet219&theme=github_dark"
-/>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=starlet219&theme=github_dark"
-/>
-
-<br/>
-
-<img
-  width="98%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=starlet219&theme=github_dark"
-/>
+<img src="https://img.shields.io/badge/Node.js-1F2937?style=flat-square&logo=nodedotjs&logoColor=83CD29" />
+<img src="https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=93C5FD" />
+<img src="https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Kafka-1F2937?style=flat-square&logo=apachekafka&logoColor=E5E7EB" />
+<img src="https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square&logo=postgresql&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/Redis-1F2937?style=flat-square&logo=redis&logoColor=93C5FD" />
+<img src="https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=38BDF8" />
 
 </div>
 
-<br/>
+[![Visit Platform](https://img.shields.io/badge/View-Platform-2563EB?style=flat-square&labelColor=1E293B)](https://www.parachutehealth.com/)
 
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=starlet219&bg_color=0D1117&color=60A5FA&line=7C3AED&point=F8FAFC&area=true&area_color=2563EB&hide_border=true&custom_title=Contribution%20Flow"
-/>
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
-## ✦ What I Build
+### 🌍 Global-e
 
-<div align="center">
+<img src="https://img.shields.io/badge/Cross--Border_eCommerce-0EA5E9?style=for-the-badge&labelColor=1E293B" />
 
-<img src="https://img.shields.io/badge/API_PLATFORMS-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BACKEND_SYSTEMS-1D4ED8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DISTRIBUTED_SYSTEMS-4338CA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EVENT_DRIVEN-6D28D9?style=for-the-badge"/>
+**Cross-border eCommerce systems** for checkout, pricing, taxes, shipping, payments, and merchant workflows.
 
-<br/>
+<div align="left">
 
-<img src="https://img.shields.io/badge/CLOUD_NATIVE-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AUTOMATION-0E7490?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DEVELOPER_TOOLING-475569?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_ASSISTED_ENGINEERING-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Node.js-1F2937?style=flat-square&logo=nodedotjs&logoColor=83CD29" />
+<img src="https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=93C5FD" />
+<img src="https://img.shields.io/badge/Kafka-1F2937?style=flat-square&logo=apachekafka&logoColor=E5E7EB" />
+<img src="https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square&logo=postgresql&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/Redis-1F2937?style=flat-square&logo=redis&logoColor=93C5FD" />
+<img src="https://img.shields.io/badge/REST_APIs-1F2937?style=flat-square&logo=fastapi&logoColor=38BDF8" />
 
 </div>
+
+[![Visit Platform](https://img.shields.io/badge/View-Platform-0EA5E9?style=flat-square&labelColor=1E293B)](https://www.global-e.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### 👟 NIKE
+
+<img src="https://img.shields.io/badge/Digital_Retail_Apps-60A5FA?style=for-the-badge&labelColor=1E293B" />
+
+**Digital retail applications** for product, inventory, merchandising, campaign, and commerce experiences.
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Node.js-1F2937?style=flat-square&logo=nodedotjs&logoColor=83CD29" />
+<img src="https://img.shields.io/badge/Express-1F2937?style=flat-square&logo=express&logoColor=E5E7EB" />
+<img src="https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=93C5FD" />
+<img src="https://img.shields.io/badge/SQL-1F2937?style=flat-square&logo=mysql&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=38BDF8" />
+
+</div>
+
+[![Visit Platform](https://img.shields.io/badge/View-Platform-60A5FA?style=flat-square&labelColor=1E293B)](https://www.nike.com/)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## ✦ Education
 
-🎓 **Stevens Institute of Technology**  
-Bachelor of Science in Computer Science · `2010 — 2014`
+### 🎓 Stevens Institute of Technology
+
+<img src="https://img.shields.io/badge/Computer_Science_Degree-3B82F6?style=for-the-badge&labelColor=1E293B" />
+
+**Bachelor of Science in Computer Science**
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/2010_—_2014-1F2937?style=flat-square&logo=googlecalendar&logoColor=93C5FD" />
+<img src="https://img.shields.io/badge/Hoboken,_NJ-1F2937?style=flat-square&logo=googlemaps&logoColor=38BDF8" />
+
+</div>
+
+[![Visit University](https://img.shields.io/badge/Visit-University-3B82F6?style=flat-square&labelColor=1E293B)](https://www.stevens.edu/)
 
 ---
 
+## ✦ Connect
+
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=17&duration=3200&pause=1200&color=94A3B8&center=true&vCenter=true&width=760&height=35&lines=BUILD+RELIABLE+SYSTEMS.;SHIP+THOUGHTFUL+SOFTWARE.;MAKE+COMPLEXITY+FEEL+SIMPLE."
-/>
-
-<br/>
-
 <a href="https://linkedin.com/in/bernard-h-engineer">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=232530" />
 </a>
-
 <a href="mailto:bernardh.engineer@outlook.com">
-<img src="https://img.shields.io/badge/Outlook-Contact-0EA5E9?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Outlook-Contact-38BDF8?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=232530" />
+</a>
+<a href="https://github.com/starlet219">
+  <img src="https://img.shields.io/badge/GitHub-Follow-C084FC?style=for-the-badge&logo=github&logoColor=white&labelColor=232530" />
 </a>
 
 <br/><br/>
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:050816,45:172554,75:3730A3,100:7C3AED"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=3200&pause=1100&color=94A3B8&center=true&vCenter=true&width=780&lines=Build+reliable+systems.;Ship+thoughtful+software.;Make+complexity+feel+simple." alt="footer typing" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F1117,38:1B2330,72:3B2F63,100:6D4AFF" />
 
 </div>
