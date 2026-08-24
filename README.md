@@ -1,6 +1,3 @@
-# Bernard Hartman — Premium Visual GitHub README
-
-````md
 <!--
 ╭──────────────────────────────────────────────╮
 │  BERNARD HARTMAN · GITHUB PROFILE           │
@@ -316,4 +313,3 @@ Bachelor of Science in Computer Science · `2010 — 2014`
 />
 
 </div>
-````
