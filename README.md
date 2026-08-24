@@ -37,7 +37,7 @@
 
 Senior Software Engineer with **11 years of experience** building scalable applications, backend services, API platforms, distributed systems, and cloud-native software across entertainment technology, healthcare technology, global eCommerce, and retail.
 
-<div align="center">
+<!-- <div align="center">
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=starlet219&theme=github_dark" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=starlet219&theme=github_dark" />
@@ -67,7 +67,7 @@ Senior Software Engineer with **11 years of experience** building scalable appli
 <img src="https://img.shields.io/badge/Pytest-232530?style=for-the-badge&logo=pytest&logoColor=0A9EDC" />
 <img src="https://img.shields.io/badge/Playwright-232530?style=for-the-badge&logo=playwright&logoColor=2EAD33" />
 
-</div>
+</div> -->
 
 ---
 
